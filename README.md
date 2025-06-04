@@ -66,4 +66,7 @@ Este projeto busca apoiar decisões logísticas e comerciais, bem como fomentar 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 28/05/2025 | entregue| [https://app.powerbi.com/groups/me/reports/24f2942a-78a1-4ce9-a2fe-f54f3fa61bb2/a7086bb24ccd8cf6d839?experience=power-bi) | 
+|01 | 28/05/2025 | entregue| [https://app.powerbi.com/groups/me/reports/24f2942a-78a1-4ce9-a2fe-f54f3fa61bb2/a7086bb24ccd8cf6d839?experience=power-bi 
+
+# Script Python
+[Veja o Script Python aqui](python_script)
