@@ -66,7 +66,7 @@ Este projeto busca apoiar decisões logísticas e comerciais, bem como fomentar 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 28/05/2025 | entregue| [Clique aqui para ver o dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTVmZWQ0NWQtOGFjYy00MzhkLWE5MjAtNWZkNzc1ODc4MTllIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9&embedImagePlaceholder=true)
+|01 | 28/05/2025 | entregue| [Clique aqui para ver o dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2EyNzU4MmEtMjQyYi00ZTAzLTlkMzAtYjRkMTU0Y2MwYmQ2IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 
 # Script Python
 [Veja o Script Python aqui](python_script)
