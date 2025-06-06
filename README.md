@@ -52,21 +52,23 @@ Este projeto busca apoiar decisões logísticas e comerciais, bem como fomentar 
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Alinhamento das atividades a serem desenvolvidas;
-- [ ] Elaboração do esboço do layout;
-- [ ] Definição das cores e fontes a serem utilizadas;
-- [ ] Desenvolvimento do design proposto;
-- [ ] Realização de testes e revisões;
-- [ ] Documentação das instruções de uso;
-- [ ] Criação do dashboard de visualização;
-- [ ] Finalização do projeto e aprovação final.
+- [x] Alinhamento das atividades a serem desenvolvidas;
+- [x] Desenvolvimento do design proposto;
+- [x] Criação do dashboard de visualização;
+- [x] Identificação das URF (unidade da receita federal) que processam as exportações.
+- [x] Identificação das principais cargas movimentadas por estado.
+- [x] Identificação dos principais países de destino das exportações.
+- [x] Análise do fluxo mensal de cargas, identificando sazonalidade.
+- [x] Realização de testes e revisões;
+- [x] Documentação das instruções de uso;
+- [x] Finalização do projeto e aprovação final.
 
 
 # Registro das Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 28/05/2025 | entregue| [Clique aqui para ver o dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2EyNzU4MmEtMjQyYi00ZTAzLTlkMzAtYjRkMTU0Y2MwYmQ2IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+|01 | 04/06/2025 | entregue| [Clique aqui para ver o dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2EyNzU4MmEtMjQyYi00ZTAzLTlkMzAtYjRkMTU0Y2MwYmQ2IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 
 # Script Python
 [Veja o Script Python aqui](python_script)
