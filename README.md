@@ -41,7 +41,7 @@ Este projeto busca apoiar decisões logísticas e comerciais, bem como fomentar 
  ### Tecnologias Específicas/Apoio
 - power query
 - Power BI 
-- PostgreSQL / SQLite
+- MySQL
 - GitHub
 
  ### Tecnologias da Informação
@@ -68,7 +68,7 @@ Este projeto busca apoiar decisões logísticas e comerciais, bem como fomentar 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 04/06/2025 | entregue| [Clique aqui para ver o dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2EyNzU4MmEtMjQyYi00ZTAzLTlkMzAtYjRkMTU0Y2MwYmQ2IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+|01 | 04/06/2025 | entregue| [Clique aqui para ver o dashboard](https://app.powerbi.com/view?r=eyJrIjoiODVkYzJlMzEtODFhMi00MjNlLTk3N2EtM2IxYjMzZDFiOWIyIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 
 # Script Python
 [Veja o Script Python aqui](python_script)
